@@ -1,1 +1,1 @@
-# startgazing
+# stargazing
